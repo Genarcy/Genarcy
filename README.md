@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10BEF7&lines=Hey+Im+0rca;handsome+coder+on+html+and+css;Creator+of+genarcy.github.io;Join+our+discord!)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @Genarcy
 - 👀 I’m interested in women 
 - 🌱 I’m currently learning Js
